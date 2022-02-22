@@ -16,7 +16,7 @@ class Home extends Component {
                                 <h5>Mobile: +8801924663948</h5>
                                 <h5>Blog: https://massofteng.blogspot.com/</h5>
                                 <h5>Skype: mas.softeng</h5>
-                                <h5>LinkedIn: https://www.linkedin.com/in/shariful-islam-889a03112</h5>
+                                <h5>LinkedIn: https://www.linkedin.com/in/mascse/</h5>
                                 <h5>Hacker Rank Profile: https://www.hackerrank.com/massofteng/</h5>
                             </div>
                         </div>
