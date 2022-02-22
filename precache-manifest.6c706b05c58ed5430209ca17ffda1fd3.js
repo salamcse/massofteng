@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41af5af362112470474c18efbbc3cce4",
+    "revision": "a98161d3bbab5097ae2cba1176397695",
     "url": "/massofteng/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/massofteng/static/css/2.e92c2c3e.chunk.css"
   },
   {
-    "revision": "2304088f1332981b7409",
+    "revision": "02d992b81440b91827d6",
     "url": "/massofteng/static/css/main.c7b69ea7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/massofteng/static/js/2.e9f9d316.chunk.js"
   },
   {
-    "revision": "2304088f1332981b7409",
-    "url": "/massofteng/static/js/main.daea18aa.chunk.js"
+    "revision": "02d992b81440b91827d6",
+    "url": "/massofteng/static/js/main.0fca22d0.chunk.js"
   },
   {
     "revision": "d379c4fb9f2a160669c8",
