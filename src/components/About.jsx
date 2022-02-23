@@ -17,11 +17,11 @@ class About extends Component {
                     </div>
                     <h2>Recent works</h2>
                     <p> We talents Portal ( <a  href="https://wetalents.net">We Talents</a> ) </p>
-                    <p>NRB Jobs ( <a  href="https://www.nrbjobs.com">Nrb jobs</a> )</p>
+                    <p>NRB Jobs ( <a  href="https://www.nrbjobs.com">Nrb Jobs</a> )</p>
                     <p>Pride Limited E-Commerce ( <a  href="http://www.pride-limited.com">Pride Limited</a> )</p>
                     <p>Urban Truth E-Commerce( <a  href="http://www.urban-truth.com">Urban Truth E-Commerce</a> )</p>
-                    <p>NRB Jobs ( <a  href="https://www.nrbjobs.com/">NRB jobs</a> )</p>
                     <p>Tender ( <a  href="https://www.bdtender.com/">Bd Tenter</a> )</p>
+                    <p>SA NDOH Dashboard ( <a  href="https://softworksbd.com/portfolio-sa-ndoh.php">SA NDOH Dashboard</a> )</p>
                     <h2 className="common-top-margin">What do I write about?</h2>
                     <p>I write about software development. More precisely, I will focus on web development. So you can expect posts about JavaScript, Frameworks like ReactJS or useful libraries.
                     As an example, learn about my way into web development:
