@@ -7,9 +7,7 @@ class Home extends Component {
             <React.Fragment>
                     <div className="common-card">
                         <div className="aboutme" uk-scrollspy="cls: uk-animation-slide-right;">
-
                             <div className="about-info">
-
                                 <h3>Md Abdus Salam </h3>
                                 <h5>Address: House#16/2-A, Commissionar road, Kallayanpur, Dhaka</h5>
                                 <h5>Email:  salam.pustcse@gmail.com, abdus.salam@selise.ch.</h5>
@@ -21,7 +19,6 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-
 
                     <div className="common-card" uk-grid uk-scrollspy="cls: uk-animation-slide-left; target: .uk-card; delay: 300; repeat: true">
                         <div className="about">
